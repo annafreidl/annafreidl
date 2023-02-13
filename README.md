@@ -2,7 +2,7 @@
 
 👀 I’m interested in learning new skills in Android/iOS App Developement
 
-🌱 I’m currently learning Kotlin and Swift
+🌱 I’m currently studying computer science and learning Android Studio
 
 💞️ Latest project: building my first Android App
 
