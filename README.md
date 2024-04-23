@@ -5,7 +5,7 @@
 🌱 I’m currently studying computer science and learning Android Studio
 
 💞️ Latest projects: 
-Developing my first website with Three.js
-Writing my bachelor thesis (topic: in preparation) 
+- Developing my first website with Three.js
+- Writing my bachelor thesis (topic: in preparation) 
 
 📫 How to reach me: on [LinkedIn](www.linkedin.com/in/anna-freidl-aaa017122)
