@@ -8,4 +8,4 @@
 - Developing my first website with Three.js
 - Writing my bachelor thesis (topic: in preparation) 
 
-📫 How to reach me: on [LinkedIn](www.linkedin.com/in/anna-freidl-aaa017122)
+📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/anna-freidl-aaa017122/)
