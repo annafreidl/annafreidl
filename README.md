@@ -6,6 +6,6 @@
 
 💞️ Latest projects: 
 - Developing my first website with Three.js
-- Writing my bachelor thesis (topic: in preparation) 
+- Writing my bachelor thesis (topic: conventional commits specification) 
 
 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/anna-freidl-aaa017122/)
